@@ -1,0 +1,21 @@
+html
+    {
+      width:100%;
+      height: 100%;
+    }
+
+body
+    {
+    background-image: url(http://img5.goumin.com/attachments/month_1311/17/658347636.jpg.thumb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+#White{color: white;}
+
+p
+  {
+    color: red;
+    font-size: 20px;
+  }
